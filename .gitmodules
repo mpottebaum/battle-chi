@@ -1,0 +1,3 @@
+[submodule "battle-chi-frontend"]
+	path = battle-chi-frontend
+	url = https://github.com/mpottebaum/battle-chi-frontend
