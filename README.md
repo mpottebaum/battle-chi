@@ -51,7 +51,7 @@ rails s
 2. From the battle-chi-frontend directory, start the front end server.
 
 ```
-npm start
+npm run dev
 ```
 
 The front end server should run on `localhost:3001`, but any port will work. If you open the front end in an incognito/private window or a separate browser, you can establish separate WebSocket connections and play as both players.
